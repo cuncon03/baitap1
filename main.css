@@ -51,7 +51,7 @@ html{
 #slider{
     height:840px;
     padding-top:50%;
-    background: url(/img/slider.png) top center / cover no-repeat;
+    background: url(img/slider.png) top center / cover no-repeat;
     position:relative;
 }
 #slider .text-content{
@@ -146,7 +146,7 @@ html{
     vertical-align: top;
     top: 60px;
     left: 76px;
-    background: url(/img/footer.png) top center / cover no-repeat;
+    background: url(img/footer.png) top center / cover no-repeat;
 }
 #footer .content-footer{
     position: absolute;
